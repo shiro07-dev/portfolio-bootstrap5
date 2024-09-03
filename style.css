@@ -1,0 +1,19 @@
+
+.navbar{
+    background-color: #ff0000;
+}
+
+.jumbotron{
+    padding-top: 6rem;
+    background-color: #f74545;
+}
+#gallery{
+    background-color: #f74545;
+}
+footer{
+    background-color: red;
+    color: white;
+}
+section{
+    padding-top: 5rem;
+}
